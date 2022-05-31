@@ -1,6 +1,6 @@
 # MNIST_handwritten_digits_classification
 MNIST hand written digit classification using keras.
-t
+
 These are the following experiments that were performed on the **Assignment1_DeepLearning_7A** file.
 
 ## **Experiments:**
