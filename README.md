@@ -1,4 +1,5 @@
 # MNIST_handwritten_digits_classification
+# CS182008 Sarfaraz Ahmed 7A
 MNIST hand written digit classification using keras.
 
 These are the following experiments that were performed on the **Assignment1_DeepLearning_7A** file.
